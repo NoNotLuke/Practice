@@ -1,0 +1,13 @@
+body {
+  font-family: Verdana, 'sans-serif';
+}
+.next {
+  display: none;
+}
+#button {
+  cursor: pointer;
+  padding: .25em .5em;
+  margin-top: .25em;
+  width: 5.25em;
+  border: .125em solid #121212;
+}
